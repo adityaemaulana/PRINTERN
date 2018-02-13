@@ -1,5 +1,5 @@
-#iniheadernyaditya
-##Sebuah Profil
+# iniheadernyaditya
+## Sebuah Profil
 **For computing**
 ~~~
 Nama : Aditya Eka Maulana
